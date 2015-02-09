@@ -1,0 +1,11 @@
+
+http://snowshow.github.io/glubnin//archive.html
+http://snowshow.github.io/glubnin//atom.xml
+http://snowshow.github.io/glubnin//categories.html
+http://snowshow.github.io/glubnin//index.html
+http://snowshow.github.io/glubnin//pages.html
+http://snowshow.github.io/glubnin//rss.xml
+http://snowshow.github.io/glubnin//sitemap.txt
+http://snowshow.github.io/glubnin//tags.html
+
+http://snowshow.github.io/glubnin//lessons/2011/12/29/jekyll-introduction
