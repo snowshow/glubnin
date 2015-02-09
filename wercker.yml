@@ -53,6 +53,7 @@ deploy :
     - script:
         name: Deploy to github pages
         code: |-
+          cd ./_production/
           git init
           git add .
           git commit -m "deploy commit from $WERCKER_STARTED_BY"
