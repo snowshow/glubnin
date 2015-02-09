@@ -1,3 +1,5 @@
+[![wercker status](https://app.wercker.com/status/07a20e337e84605fed7fd9840116d555/m "wercker status")](https://app.wercker.com/project/bykey/07a20e337e84605fed7fd9840116d555)
+
 # Jekyll-Bootstrap
 
 The quickest way to start and publish your Jekyll powered blog. 100% compatible with GitHub pages
