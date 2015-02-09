@@ -27,6 +27,7 @@ author :
 #
 production_url : http://snowshow.github.io/glubnin/
 BASE_PATH : http://snowshow.github.io/glubnin/
+safe : true
 #baseurl: /glubnin/
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
